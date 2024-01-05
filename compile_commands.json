@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Applications/Workspace/Projects/Github/C++/DimensionalAnalysis/build",
+  "command": "/Applications/Workspace/Coding/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Applications/Workspace/Projects/Github/C++/DimensionalAnalysis/include -I/Applications/Workspace/Projects/Github/C++/DimensionalAnalysis -isystem /usr/local/include -std=gnu++20 -arch arm64 -isysroot /Applications/Workspace/Coding/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -o CMakeFiles/launchTest.dir/tests/literals.cpp.o -c /Applications/Workspace/Projects/Github/C++/DimensionalAnalysis/tests/literals.cpp",
+  "file": "/Applications/Workspace/Projects/Github/C++/DimensionalAnalysis/tests/literals.cpp",
+  "output": "CMakeFiles/launchTest.dir/tests/literals.cpp.o"
+}
+]

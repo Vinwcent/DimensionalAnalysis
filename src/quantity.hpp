@@ -74,13 +74,13 @@ operator/(quantity<T, D1> x, quantity<T, D2> y) {
   DEFINE_UNIT_LIT_FOR_TYPE(unsigned long long, DIM, LIT, MULTIPLIER)
 
 // Time
-DEFINE_UNIT_LIT(timeDim, _ms, 0.00l);
+DEFINE_UNIT_LIT(timeDim, _ms, 0.001);
 DEFINE_UNIT_LIT(timeDim, _s, 1);
 DEFINE_UNIT_LIT(timeDim, _min, 60);
 DEFINE_UNIT_LIT(timeDim, _h, 3600);
 
 // Mass
-DEFINE_UNIT_LIT(timeDim, _mg, 0.00000l);
+DEFINE_UNIT_LIT(timeDim, _mg, 0.000001);
 DEFINE_UNIT_LIT(timeDim, _g, 0.001);
 DEFINE_UNIT_LIT(timeDim, _kg, 1);
 DEFINE_UNIT_LIT(timeDim, _t, 1000);
