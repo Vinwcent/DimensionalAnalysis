@@ -1,0 +1,5 @@
+/Applications/Workspace/Projects/Github/C++/DimensionalAnalysis/build/CMakeFiles/BookLib.dir
+/Applications/Workspace/Projects/Github/C++/DimensionalAnalysis/build/CMakeFiles/launchTest.dir
+/Applications/Workspace/Projects/Github/C++/DimensionalAnalysis/build/CMakeFiles/test.dir
+/Applications/Workspace/Projects/Github/C++/DimensionalAnalysis/build/CMakeFiles/edit_cache.dir
+/Applications/Workspace/Projects/Github/C++/DimensionalAnalysis/build/CMakeFiles/rebuild_cache.dir
