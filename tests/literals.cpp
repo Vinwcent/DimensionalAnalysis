@@ -4,7 +4,7 @@
 
 
 
-TEST(Exercise2_0, LiteralConversion1) {
+TEST(Literals, LiteralConversion1) {
   quantity<int, timeDim> sec60 = 120_s;
   quantity<int, timeDim> min1 = 2_min;
   EXPECT_EQ(sec60.value(), min1.value());
