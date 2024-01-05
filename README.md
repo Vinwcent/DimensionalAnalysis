@@ -1,6 +1,6 @@
 # DimensionalAnalysis
 
-A small attempt at making a metaprogramming C++ class able to perform dimension analysis to prevent errors at compile-time.
+A small attempt at making a metaprogramming C++ class able to perform dimension analysis to prevent errors at compile-time. (Needs the mpl library from boost)
 
 ## Features
 
